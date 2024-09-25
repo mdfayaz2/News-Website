@@ -1,0 +1,95 @@
+.head {
+  cursor: pointer;
+  margin-top: -45px;
+}
+.head .logo img {
+  width: 300px;
+}
+header {
+  background-color: #000;
+  color: #fff;
+}
+
+header li {
+  margin-right: 30px;
+  transition: 0.5s;
+}
+header li:hover {
+  color: crimson;
+  cursor: pointer;
+}
+header a {
+  color: #fff;
+}
+.barIcon {
+  font-size: 25px;
+  background: none;
+  color: #fff;
+  display: none;
+  border: none;
+}
+.heading{
+  font-size: 55px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+@media screen and (max-width: 768px) {
+  .head .ad {
+    display: none;
+  }
+  header .icon {
+    display: none;
+  }
+  header .flex {
+    display: none;
+  }
+  .barIcon {
+    display: block;
+  }
+  header .navbar {
+    position: absolute;
+    display: block;
+    background-color: #fb4c35;
+    left: 0;
+    top: 21%;
+    transition: 0.5s;
+    width: 100%;
+    height: 45vh;
+    z-index: 5;
+    padding: 50px;
+  }
+  header .navbar {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+  }
+  header ul li {
+    margin-bottom: 30px;
+  }
+}
+.live-tv {
+  display: flex;
+  align-items: center;
+}
+
+.live-tv h1 {
+  margin-right: 10px; /* Space between heading and dot */
+  font-size: 24px; /* Adjust heading size as needed */
+}
+
+.blinking-dot {
+  width: 10px; /* Diameter of the dot */
+  height: 10px; /* Diameter of the dot */
+  background-color: red; /* Dot color */
+  border-radius: 50%; /* Make it circular */
+  animation: blink 1s infinite; /* Blinking effect */
+}
+
+@keyframes blink {
+  0%, 100% {
+      opacity: 1; /* Fully visible */
+  }
+  50% {
+      opacity: 0; /* Fully transparent */
+  }
+}
