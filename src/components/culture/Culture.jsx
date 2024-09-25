@@ -3,7 +3,7 @@ import YouTube from 'react-youtube';
 import './Culture.css'
 
 const Culture = () => {
-  const videoId = "dEZ7Ls4wDQc?si=95GGSRgaF0WuloVF"; // Replace this with your actual YouTube video ID
+  const videoId = "P2iOq2rPPpU?si=W3MBDqbM4HJEntPv"; // Replace this with your actual YouTube video ID
 
   const opts = {
     height: '390',
@@ -22,7 +22,7 @@ const Culture = () => {
           
         </div>
         <YouTube videoId={videoId} opts={opts} />
-        <h2>జగన్ కు కాపు నేతల గుడ్బై</h2>
+        <h2>లడ్డూ మీద జోకులా తాట తీస్తా🔴LIVE : Pawan kalyan Serious warning To Hero Karthik On Laddu Issue |DR NEWS</h2>
       </div>
       <button className="contact-button">చందాదారులు</button>
     </div>

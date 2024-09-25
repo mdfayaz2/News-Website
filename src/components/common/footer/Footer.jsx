@@ -1,5 +1,5 @@
-import React from "react"
-import "./footer.css"
+import React from "react";
+import "./footer.css";
 
 const Footer = () => {
   return (
@@ -7,38 +7,37 @@ const Footer = () => {
       <footer>
         <div className='container'>
           <div className='box logo'>
-            <img src='../images/tech-logo-footer.png' alt='' />
-            <p>Busan is an amazing magazine Blogger theme that is easy to customize for your needs</p>
+            <img src='../images/logo1.png' alt='DR News Logo' className="logo-image" />
+            <p>DR News is the reporting of current events and issues of public interest. It plays a crucial role in informing society about local, national, and global happenings. </p>
             <i className='fa fa-envelope'></i>
-            <span> hello@beautiful.com </span> <br />
+            <span> hello@drnews.com </span> <br />
             <i className='fa fa-headphones'></i>
             <span> +91 60521488</span>
           </div>
           <div className='box'>
             <h3>SPORT</h3>
             <div className='item'>
-              <img src='../images/hero/hero1.jpg' alt='' />
-              <p>Google To Boost Android Security In Few Days</p>
+              <img src='../images/hero/hero1.png' alt='Emergency Movie news' />
+              <p>Emergency Movie: కంగనా రనౌత్ కు బిగ్ రిలీఫ్..'ఎమర్జెన్సీ' రిలీజ్ కు గ్రీన్ సిగ్నల్.. కానీ ?</p>
             </div>
             <div className='item'>
-              <img src='../images/hero/hero2.jpg' alt='' />
-              <p>Cespedes play the winning Baseball Game</p>
+              <img src='../images/hero/hero2.png' alt='OTT Movie news' />
+              <p>OTT: ఓటీటీలోకి రూ.500 కోట్ల హర్రర్ మూవీ.. స్ట్రీమింగ్ డేట్ ఇదే</p>
             </div>
           </div>
           <div className='box'>
             <h3>CRICKET</h3>
             <div className='item'>
-              <img src='../images/hero/hero3.jpg' alt='' />
-              <p>US Promises to give Intel aid to locate the soldiers</p>
+              <img src='../images/hero/hero3.png' alt='Vinayakan Arrest news' />
+              <p>Actor Vinayakan: ఎయిర్ పోర్ట్ లో 'జైలర్' నటుడు వినాయకన్ అరెస్ట్.. ఏం జరిగిందంటే</p>
             </div>
             <div className='item'>
-              <img src='../images/hero/hero1.jpg' alt='' />
-              <p>Renewable energy dead as industry waits for Policy</p>
+              <img src='../images/hero/hero4.png' alt='Viral Video news' />
+              <p>Viral Video: రైలు వస్తుండగా ట్రాక్ పైకి ఆవు.. ఏం జరిగిందంటే..</p>
             </div>
           </div>
           <div className='box'>
             <h3>LABELS</h3>
-            {/*<i className='fa fa-chevron-right'></i>*/}
             <ul>
               <li>
                 <span>Boxing</span> <label>(5)</label>
@@ -56,7 +55,7 @@ const Footer = () => {
           </div>
         </div>
       </footer>
-      <div className='legal  '>
+      <div className='legal'>
         <div className='container flexSB'>
           <p>© all rights reserved</p>
           <p>
@@ -65,7 +64,7 @@ const Footer = () => {
         </div>
       </div>
     </>
-  )
-}
+  );
+};
 
-export default Footer
+export default Footer;
