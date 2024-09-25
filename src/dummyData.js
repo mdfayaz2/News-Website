@@ -1,11 +1,11 @@
 export const hero = [
   {
     id: 1,
-    cover: "../images/hero/hero1.png",
+    cover: "/news-website/images/hero/hero1.png",
     catgeory: "featured",
     title: "తెలంగాణ ప్రభుత్వ ఆస్పత్రుల్లో 842 ఉద్యోగాలు.. ఎల్లుండే ఇంటర్వ్యూలు!",
     authorName: "Salman",
-    authorImg: "../images/author.jpg",
+    authorImg: "/news-website/images/author.jpg",
     time: "5 Jun - 2022",
     desc: [
       {
@@ -36,11 +36,11 @@ export const hero = [
   },
   {
     id: 2,
-    cover: "../images/hero/hero2.png",
+    cover: "/news-website/images/hero/hero2.png",
     catgeory: "jobs",
     title: "JOBS: 12 పాసయితే చాలు..రైల్వేలో 3445 ఉద్యోగాలు",
     authorName: "alex",
-    authorImg: "../images/author.jpg",
+    authorImg: "/news-website/images/author.jpg",
     time: "12 Aug - 2022",
     desc: [
       {
@@ -71,11 +71,11 @@ export const hero = [
   },
   {
     id: 3,
-    cover: "../images/hero/hero3.png",
+    cover: "/news-website/images/hero/hero3.png",
     catgeory: "education",
     title: "జెఎన్‌టీయూహెచ్‌లో మారనున్న సిలబస్‌.. వచ్చే విద్యా సంవత్సరం అమలు",
     authorName: "rina",
-    authorImg: "../images/author.jpg",
+    authorImg: "/news-website/images/author.jpg",
     time: "22 Mar - 2022",
     desc: [
       {
@@ -106,11 +106,11 @@ export const hero = [
   },
   {
     id: 4,
-    cover: "../images/hero/hero4.png",
+    cover: "/news-website/images/hero/hero4.png",
     catgeory: "notification",
     title: "ఉద్యోగులకు షాక్ ఇచ్చిన యాక్సెంచర్.. కంపెనీలో అసలేం జరుగుతోంది?",
     authorName: "sunil",
-    authorImg: "../images/author.jpg",
+    authorImg: "/news-website/images/author.jpg",
     time: "08 Dec - 2022",
     desc: [
       {
@@ -143,7 +143,7 @@ export const hero = [
 export const world = [
   {
     id: 1,
-    cover: "../images/world/world1.jpg",
+    cover: "/news-website/images/world/world1.jpg",
     catgeory: "",
     title: "Stepping back does make Sussex safer and at peace ",
     authorName: "Salman",
@@ -151,7 +151,7 @@ export const world = [
   },
   {
     id: 2,
-    cover: "../images/world/world2.jpg",
+    cover: "/news-website/images/world/world2.jpg",
     catgeory: "",
     title: "Renewable energy dead as industry waits for Policy ",
     authorName: "Salman",
@@ -161,7 +161,7 @@ export const world = [
   },
   {
     id: 3,
-    cover: "../images/world/world3.jpg",
+    cover: "/news-website/images/world/world3.jpg",
     catgeory: "",
     title: "Mount Etna erupts fashion in nice looking pictures ",
     authorName: "Salman",
@@ -169,7 +169,7 @@ export const world = [
   },
   {
     id: 4,
-    cover: "../images/world/world2.jpg",
+    cover: "/news-website/images/world/world2.jpg",
     catgeory: "",
     title: "China asks Canada to add their full plan ",
     authorName: "Salman",
@@ -177,7 +177,7 @@ export const world = [
   },
   {
     id: 5,
-    cover: "../images/world/world2.jpg",
+    cover: "/news-website/images/world/world2.jpg",
     catgeory: "",
     title: "Serena secures comeback win against Ivanovic",
     authorName: "Salman",
@@ -192,7 +192,7 @@ export const popular = [
     title: "Big Breaking: తెలంగాణ కొత్త సీఎం, డిప్యూటీ సీఎంలు వీరే",
     date: "25. September 2024",
     comments: 0,
-    cover: "../images/popular/pop1.jpg",
+    cover: "/news-website/images/popular/pop1.jpg",
     desc: "ప్రముఖ యూట్యూబర్ హర్ష సాయి పై లైంగిక ఆరోపణలు రావడం సంచలనంగా మారింది. ఓ యువతి తనను పెళ్లి చేసుకుంటానని చెప్పి హర్ష సాయి మోసం చేశాడని నార్సింగ్ పోలీసు స్టేషన్‌‌లో కేసు పెట్టింది.  హర్ష సాయితో పాటు అతని తండ్రిపై కూడా  కంప్లైంట్ ఇచ్చింది. పెళ్లి పేరుతో రూ. 2కోట్లు తీసుకొని తనను  మోసం చేసినట్లు యువతి ఫిర్యాదులో పేర్కొంది. దీంతో పోలీసులు హర్ష సాయిపై 376, 354 సెక్షన్ల కింద కేసు నమోదు చేశారు. .",
   },
   {
@@ -201,7 +201,7 @@ export const popular = [
     title: "Kadapa: కడపలో ఏటీఎం చోరీల కలకలం.. ఒకే రోజు 3 చోట్ల దొంగలు ఏం చేశారంటే?",
     date: "25. September 2024",
     comments: 0,
-    cover: "../images/popular/pop2.jpg",
+    cover: "/news-website/images/popular/pop2.jpg",
     desc: "ప్రముఖ యూట్యూబర్ హర్ష సాయి పై లైంగిక ఆరోపణలు రావడం సంచలనంగా మారింది. ఓ యువతి తనను పెళ్లి చేసుకుంటానని చెప్పి హర్ష సాయి మోసం చేశాడని నార్సింగ్ పోలీసు స్టేషన్‌‌లో కేసు పెట్టింది.  హర్ష సాయితో పాటు అతని తండ్రిపై కూడా  కంప్లైంట్ ఇచ్చింది. పెళ్లి పేరుతో రూ. 2కోట్లు తీసుకొని తనను  మోసం చేసినట్లు యువతి ఫిర్యాదులో పేర్కొంది. దీంతో పోలీసులు హర్ష సాయిపై 376, 354 సెక్షన్ల కింద కేసు నమోదు చేశారు. .",
   },
   {
@@ -210,7 +210,7 @@ export const popular = [
     title: "YS Sharmila: ఇది సామాన్యమైన దెబ్బ కాదు.. జగన్ హయాంలోనే..?",
     date: "25. September 2024",
     comments: 0,
-    cover: "../images/popular/pop3.jpg",
+    cover: "/news-website/images/popular/pop3.jpg",
     desc: "ప్రముఖ యూట్యూబర్ హర్ష సాయి పై లైంగిక ఆరోపణలు రావడం సంచలనంగా మారింది. ఓ యువతి తనను పెళ్లి చేసుకుంటానని చెప్పి హర్ష సాయి మోసం చేశాడని నార్సింగ్ పోలీసు స్టేషన్‌‌లో కేసు పెట్టింది.  హర్ష సాయితో పాటు అతని తండ్రిపై కూడా  కంప్లైంట్ ఇచ్చింది. పెళ్లి పేరుతో రూ. 2కోట్లు తీసుకొని తనను  మోసం చేసినట్లు యువతి ఫిర్యాదులో పేర్కొంది. దీంతో పోలీసులు హర్ష సాయిపై 376, 354 సెక్షన్ల కింద కేసు నమోదు చేశారు. .",
   },
   {
@@ -219,7 +219,7 @@ export const popular = [
     title: "Rain Effect: మరికొన్ని రైళ్లు రద్దు...రత్నాచల్‌ ఎక్స్‌ప్రెస్‌ దారి మళ్లింపు!",
     date: "25. September 2024",
     comments: 0,
-    cover: "../images/popular/pop4.jpg",
+    cover: "/news-website/images/popular/pop4.jpg",
     desc: "ప్రముఖ యూట్యూబర్ హర్ష సాయి పై లైంగిక ఆరోపణలు రావడం సంచలనంగా మారింది. ఓ యువతి తనను పెళ్లి చేసుకుంటానని చెప్పి హర్ష సాయి మోసం చేశాడని నార్సింగ్ పోలీసు స్టేషన్‌‌లో కేసు పెట్టింది.  హర్ష సాయితో పాటు అతని తండ్రిపై కూడా  కంప్లైంట్ ఇచ్చింది. పెళ్లి పేరుతో రూ. 2కోట్లు తీసుకొని తనను  మోసం చేసినట్లు యువతి ఫిర్యాదులో పేర్కొంది. దీంతో పోలీసులు హర్ష సాయిపై 376, 354 సెక్షన్ల కింద కేసు నమోదు చేశారు. .",
   },
   {
@@ -228,7 +228,7 @@ export const popular = [
     title: "Jyothi Rai -సీరియల్ నటికి బిగ్ షాక్.. నెట్టింట ప్రత్యక్షమైన అశ్లీల ఫోటోలు!",
     date: "25. September 2024",
     comments: 0,
-    cover: "../images/popular/pop5.jpg",
+    cover: "/news-website/images/popular/pop5.jpg",
     desc: "ప్రముఖ యూట్యూబర్ హర్ష సాయి పై లైంగిక ఆరోపణలు రావడం సంచలనంగా మారింది. ఓ యువతి తనను పెళ్లి చేసుకుంటానని చెప్పి హర్ష సాయి మోసం చేశాడని నార్సింగ్ పోలీసు స్టేషన్‌‌లో కేసు పెట్టింది.  హర్ష సాయితో పాటు అతని తండ్రిపై కూడా  కంప్లైంట్ ఇచ్చింది. పెళ్లి పేరుతో రూ. 2కోట్లు తీసుకొని తనను  మోసం చేసినట్లు యువతి ఫిర్యాదులో పేర్కొంది. దీంతో పోలీసులు హర్ష సాయిపై 376, 354 సెక్షన్ల కింద కేసు నమోదు చేశారు. .",
   },
   {
@@ -237,7 +237,7 @@ export const popular = [
     title: "Andhra Pradesh: కడపలో క్యాంపు రాజకీయాలు..నేతలను కాపాడుకునేందుకు వైసీపీ పాట్లు",
     date: "25. September 2024",
     comments: 0,
-    cover: "../images/popular/pop6.jpg",
+    cover: "/news-website/images/popular/pop6.jpg",
     desc: "ప్రముఖ యూట్యూబర్ హర్ష సాయి పై లైంగిక ఆరోపణలు రావడం సంచలనంగా మారింది. ఓ యువతి తనను పెళ్లి చేసుకుంటానని చెప్పి హర్ష సాయి మోసం చేశాడని నార్సింగ్ పోలీసు స్టేషన్‌‌లో కేసు పెట్టింది.  హర్ష సాయితో పాటు అతని తండ్రిపై కూడా  కంప్లైంట్ ఇచ్చింది. పెళ్లి పేరుతో రూ. 2కోట్లు తీసుకొని తనను  మోసం చేసినట్లు యువతి ఫిర్యాదులో పేర్కొంది. దీంతో పోలీసులు హర్ష సాయిపై 376, 354 సెక్షన్ల కింద కేసు నమోదు చేశారు. .",
   },
   {
@@ -246,7 +246,7 @@ export const popular = [
     title: "Cancer : క్యాన్సర్ చికిత్స సమయంలో ఈ వ్యాధుల ప్రమాదం పెరుగుతుందా?",
     date: "25. September 2024",
     comments: 0,
-    cover: "../images/popular/pop7.jpg",
+    cover: "/news-website/images/popular/pop7.jpg",
     desc: "ప్రముఖ యూట్యూబర్ హర్ష సాయి పై లైంగిక ఆరోపణలు రావడం సంచలనంగా మారింది. ఓ యువతి తనను పెళ్లి చేసుకుంటానని చెప్పి హర్ష సాయి మోసం చేశాడని నార్సింగ్ పోలీసు స్టేషన్‌‌లో కేసు పెట్టింది.  హర్ష సాయితో పాటు అతని తండ్రిపై కూడా  కంప్లైంట్ ఇచ్చింది. పెళ్లి పేరుతో రూ. 2కోట్లు తీసుకొని తనను  మోసం చేసినట్లు యువతి ఫిర్యాదులో పేర్కొంది. దీంతో పోలీసులు హర్ష సాయిపై 376, 354 సెక్షన్ల కింద కేసు నమోదు చేశారు. .",
   },
   {
@@ -255,7 +255,7 @@ export const popular = [
     title: "Harsha Sai: హర్షసాయి కేసులో మరో ట్విస్ట్‌.. లీకైన ఆడియో",
     date: "25. September 2024",
     comments: 0,
-    cover: "../images/popular/pop8.jpg",
+    cover: "/news-website/images/popular/pop8.jpg",
     desc: "ప్రముఖ యూట్యూబర్ హర్ష సాయి పై లైంగిక ఆరోపణలు రావడం సంచలనంగా మారింది. ఓ యువతి తనను పెళ్లి చేసుకుంటానని చెప్పి హర్ష సాయి మోసం చేశాడని నార్సింగ్ పోలీసు స్టేషన్‌‌లో కేసు పెట్టింది.  హర్ష సాయితో పాటు అతని తండ్రిపై కూడా  కంప్లైంట్ ఇచ్చింది. పెళ్లి పేరుతో రూ. 2కోట్లు తీసుకొని తనను  మోసం చేసినట్లు యువతి ఫిర్యాదులో పేర్కొంది. దీంతో పోలీసులు హర్ష సాయిపై 376, 354 సెక్షన్ల కింద కేసు నమోదు చేశారు. .",
   },
   {
@@ -264,7 +264,7 @@ export const popular = [
     title: "Unplugged Gigs To Remember",
     date: "25. September 2024",
     comments: 0,
-    cover: "../images/popular/pop9.jpg",
+    cover: "/news-website/images/popular/pop9.jpg",
     desc: "ప్రముఖ యూట్యూబర్ హర్ష సాయి పై లైంగిక ఆరోపణలు రావడం సంచలనంగా మారింది. ఓ యువతి తనను పెళ్లి చేసుకుంటానని చెప్పి హర్ష సాయి మోసం చేశాడని నార్సింగ్ పోలీసు స్టేషన్‌‌లో కేసు పెట్టింది.  హర్ష సాయితో పాటు అతని తండ్రిపై కూడా  కంప్లైంట్ ఇచ్చింది. పెళ్లి పేరుతో రూ. 2కోట్లు తీసుకొని తనను  మోసం చేసినట్లు యువతి ఫిర్యాదులో పేర్కొంది. దీంతో పోలీసులు హర్ష సాయిపై 376, 354 సెక్షన్ల కింద కేసు నమోదు చేశారు. .",
   },
   {
@@ -273,7 +273,7 @@ export const popular = [
     title: "Picks For This Month’s Best Instagram Shots",
     date: "25. September 2024",
     comments: 0,
-    cover: "../images/popular/pop10.jpg",
+    cover: "/news-website/images/popular/pop10.jpg",
     desc: "ప్రముఖ యూట్యూబర్ హర్ష సాయి పై లైంగిక ఆరోపణలు రావడం సంచలనంగా మారింది. ఓ యువతి తనను పెళ్లి చేసుకుంటానని చెప్పి హర్ష సాయి మోసం చేశాడని నార్సింగ్ పోలీసు స్టేషన్‌‌లో కేసు పెట్టింది.  హర్ష సాయితో పాటు అతని తండ్రిపై కూడా  కంప్లైంట్ ఇచ్చింది. పెళ్లి పేరుతో రూ. 2కోట్లు తీసుకొని తనను  మోసం చేసినట్లు యువతి ఫిర్యాదులో పేర్కొంది. దీంతో పోలీసులు హర్ష సాయిపై 376, 354 సెక్షన్ల కింద కేసు నమోదు చేశారు. .",
   },
   {
@@ -282,7 +282,7 @@ export const popular = [
     title: "Why Rich People Don’t Invest Much",
     date: "25. September 2024",
     comments: 0,
-    cover: "../images/popular/pop11.jpg",
+    cover: "/news-website/images/popular/pop11.jpg",
     desc: "ప్రముఖ యూట్యూబర్ హర్ష సాయి పై లైంగిక ఆరోపణలు రావడం సంచలనంగా మారింది. ఓ యువతి తనను పెళ్లి చేసుకుంటానని చెప్పి హర్ష సాయి మోసం చేశాడని నార్సింగ్ పోలీసు స్టేషన్‌‌లో కేసు పెట్టింది.  హర్ష సాయితో పాటు అతని తండ్రిపై కూడా  కంప్లైంట్ ఇచ్చింది. పెళ్లి పేరుతో రూ. 2కోట్లు తీసుకొని తనను  మోసం చేసినట్లు యువతి ఫిర్యాదులో పేర్కొంది. దీంతో పోలీసులు హర్ష సాయిపై 376, 354 సెక్షన్ల కింద కేసు నమోదు చేశారు. .",
   },
   {
@@ -291,7 +291,7 @@ export const popular = [
     title: "Welcoming The Digital Generation",
     date: "25. September 2024",
     comments: 0,
-    cover: "../images/popular/pop12.jpg",
+    cover: "/news-website/images/popular/pop12.jpg",
     desc: "ప్రముఖ యూట్యూబర్ హర్ష సాయి పై లైంగిక ఆరోపణలు రావడం సంచలనంగా మారింది. ఓ యువతి తనను పెళ్లి చేసుకుంటానని చెప్పి హర్ష సాయి మోసం చేశాడని నార్సింగ్ పోలీసు స్టేషన్‌‌లో కేసు పెట్టింది.  హర్ష సాయితో పాటు అతని తండ్రిపై కూడా  కంప్లైంట్ ఇచ్చింది. పెళ్లి పేరుతో రూ. 2కోట్లు తీసుకొని తనను  మోసం చేసినట్లు యువతి ఫిర్యాదులో పేర్కొంది. దీంతో పోలీసులు హర్ష సాయిపై 376, 354 సెక్షన్ల కింద కేసు నమోదు చేశారు. .",
   },
   {
@@ -300,7 +300,7 @@ export const popular = [
     title: "These Teens Are Absolutely Crazy For Beach Soccer",
     date: "25. September 2024",
     comments: 0,
-    cover: "../images/popular/pop13.jpg",
+    cover: "/news-website/images/popular/pop13.jpg",
     desc: "ప్రముఖ యూట్యూబర్ హర్ష సాయి పై లైంగిక ఆరోపణలు రావడం సంచలనంగా మారింది. ఓ యువతి తనను పెళ్లి చేసుకుంటానని చెప్పి హర్ష సాయి మోసం చేశాడని నార్సింగ్ పోలీసు స్టేషన్‌‌లో కేసు పెట్టింది.  హర్ష సాయితో పాటు అతని తండ్రిపై కూడా  కంప్లైంట్ ఇచ్చింది. పెళ్లి పేరుతో రూ. 2కోట్లు తీసుకొని తనను  మోసం చేసినట్లు యువతి ఫిర్యాదులో పేర్కొంది. దీంతో పోలీసులు హర్ష సాయిపై 376, 354 సెక్షన్ల కింద కేసు నమోదు చేశారు. .",
   },
   {
@@ -309,7 +309,7 @@ export const popular = [
     title: "How To Organize The Best Bridal Party Ever",
     date: "25. September 2024",
     comments: 0,
-    cover: "../images/popular/pop14.jpg",
+    cover: "/news-website/images/popular/pop14.jpg",
     desc: "ప్రముఖ యూట్యూబర్ హర్ష సాయి పై లైంగిక ఆరోపణలు రావడం సంచలనంగా మారింది. ఓ యువతి తనను పెళ్లి చేసుకుంటానని చెప్పి హర్ష సాయి మోసం చేశాడని నార్సింగ్ పోలీసు స్టేషన్‌‌లో కేసు పెట్టింది.  హర్ష సాయితో పాటు అతని తండ్రిపై కూడా  కంప్లైంట్ ఇచ్చింది. పెళ్లి పేరుతో రూ. 2కోట్లు తీసుకొని తనను  మోసం చేసినట్లు యువతి ఫిర్యాదులో పేర్కొంది. దీంతో పోలీసులు హర్ష సాయిపై 376, 354 సెక్షన్ల కింద కేసు నమోదు చేశారు. .",
   },
   {
@@ -318,7 +318,7 @@ export const popular = [
     title: "Social Networks And Social Life",
     date: "25. September 2024",
     comments: 0,
-    cover: "../images/popular/pop15.jpg",
+    cover: "/news-website/images/popular/pop15.jpg",
     desc: "ప్రముఖ యూట్యూబర్ హర్ష సాయి పై లైంగిక ఆరోపణలు రావడం సంచలనంగా మారింది. ఓ యువతి తనను పెళ్లి చేసుకుంటానని చెప్పి హర్ష సాయి మోసం చేశాడని నార్సింగ్ పోలీసు స్టేషన్‌‌లో కేసు పెట్టింది.  హర్ష సాయితో పాటు అతని తండ్రిపై కూడా  కంప్లైంట్ ఇచ్చింది. పెళ్లి పేరుతో రూ. 2కోట్లు తీసుకొని తనను  మోసం చేసినట్లు యువతి ఫిర్యాదులో పేర్కొంది. దీంతో పోలీసులు హర్ష సాయిపై 376, 354 సెక్షన్ల కింద కేసు నమోదు చేశారు. .",
   },
   {
@@ -327,7 +327,7 @@ export const popular = [
     title: "Gaming Brings Couples Closer Together?",
     date: "25. September 2024",
     comments: 0,
-    cover: "../images/popular/pop1.jpg",
+    cover: "/news-website/images/popular/pop1.jpg",
     desc: "ప్రముఖ యూట్యూబర్ హర్ష సాయి పై లైంగిక ఆరోపణలు రావడం సంచలనంగా మారింది. ఓ యువతి తనను పెళ్లి చేసుకుంటానని చెప్పి హర్ష సాయి మోసం చేశాడని నార్సింగ్ పోలీసు స్టేషన్‌‌లో కేసు పెట్టింది.  హర్ష సాయితో పాటు అతని తండ్రిపై కూడా  కంప్లైంట్ ఇచ్చింది. పెళ్లి పేరుతో రూ. 2కోట్లు తీసుకొని తనను  మోసం చేసినట్లు యువతి ఫిర్యాదులో పేర్కొంది. దీంతో పోలీసులు హర్ష సాయిపై 376, 354 సెక్షన్ల కింద కేసు నమోదు చేశారు. .",
   },
 ]
@@ -338,28 +338,28 @@ export const ppost = [
     catgeory: "world",
     title: "Today Petrol Price : ఈరోజు పెట్రోల్.. డీజిల్ ధరలు ఎంత ఉన్నాయంటే..",
     date: "25. September 2024",
-    cover: "../images/ppost/pop1.jpg",
+    cover: "/news-website/images/ppost/pop1.jpg",
   },
   {
     id: 2,
     catgeory: "health",
     title: "Fenugreek: మెంతికూరతో మొండి తామరకు ఇలా చెక్ పెట్టండి!",
     date: "25. September 2024",
-    cover: "../images/ppost/pop2.jpg",
+    cover: "/news-website/images/ppost/pop2.jpg",
   },
   {
     id: 3,
     catgeory: "food",
     title: "Our Top 5 Restaurants For A Complete Culinary Experience",
     date: "25. September 2024",
-    cover: "../images/ppost/pop3.jpg",
+    cover: "/news-website/images/ppost/pop3.jpg",
   },
   {
     id: 4,
     catgeory: "fashion",
     title: "Hipster Chic Is In Again: Get Some Glasses",
     date: "25. September 2024",
-    cover: "../images/ppost/pop4.jpg",
+    cover: "/news-website/images/ppost/pop4.jpg",
   },
 ]
 export const lifestyle = [
@@ -368,88 +368,88 @@ export const lifestyle = [
     catgeory: "world",
     title: "Work Culture: మీ ఆఫీస్ వర్క్ కల్చర్ టాక్సిక్ అని ఇలా తెలుసుకోండి..!",
     date: "25. September 2024",
-    cover: "../images/life/life1.jpg",
+    cover: "/news-website/images/life/life1.jpg",
   },
   {
     id: 2,
     catgeory: "sport",
     title: "మొలకెత్తిన రాగుల ఊతప్పం.. తిన్నారంటే దెబ్బకు రోగాలు పరార్!",
     date: "25. September 2024",
-    cover: "../images/life/life2.jpg",
+    cover: "/news-website/images/life/life2.jpg",
   },
   {
     id: 3,
     catgeory: "fashion",
     title: "Bigg Boss 8 Telugu : ఫస్ట్ వీక్ లోనే ఎలిమినేట్ అయిన 'బేబక్క'.. ఎంత సంపాదించిందంటే?",
     date: "25. September 2024",
-    cover: "../images/life/life3.jpg",
+    cover: "/news-website/images/life/life3.jpg",
   },
   {
     id: 4,
     catgeory: "world",
     title: "Music Playing On R&B Stations",
     date: "25. September 2024",
-    cover: "../images/life/life4.jpg",
+    cover: "/news-website/images/life/life4.jpg",
   },
 ]
 export const tpost = [
   {
     id: 1,
     title: "AP, TG Floods: వరద బాధితులకు LG సంస్థ శుభవార్త.. ఆ సేవలు ఫ్రీ, 50% డిస్కౌంట్ కూడా!",
-    cover: "../images/tpost/tpost.webp",
+    cover: "/news-website/images/tpost/tpost.webp",
   },
   {
     id: 2,
     title: "Jayam Ravi : 'మేం విడిపోతున్నాం'.. స్టార్ హీరో సంచలన ప్రకటన, షాక్ లో ఫ్యాన్స్",
-    cover: "../images/tpost/tpost2.jpg",
+    cover: "/news-website/images/tpost/tpost2.jpg",
   },
   {
     id: 3,
     title: "నాడు.. నేడు.. నాకు స్ఫూర్తి కాళోజీ: సీఎం రేవంత్",
-    cover: "../images/tpost/tpost3.jpg",
+    cover: "/news-website/images/tpost/tpost3.jpg",
   },
 ]
 export const gallery = [
   {
-    cover: "../images/gallery/g1.jpg",
+    cover: "/news-website/images/gallery/g1.jpg",
   },
   {
-    cover: "../images/gallery/g2.jpg",
+    cover: "/news-website/images/gallery/g2.jpg",
   },
   {
-    cover: "../images/gallery/g3.jpg",
+    cover: "/news-website/images/gallery/g3.jpg",
   },
   {
-    cover: "../images/gallery/g4.jpg",
+    cover: "/news-website/images/gallery/g4.jpg",
   },
   {
-    cover: "../images/gallery/g5.jpg",
+    cover: "/news-website/images/gallery/g5.jpg",
   },
 ]
 export const discover = [
   {
     title: "games",
-    cover: "../images/discover/d1.jpg",
+    cover: "/news-website/images/discover/d1.jpg",
   },
   {
     title: "sports",
-    cover: "../images/discover/d2.jpg",
+    cover: "/news-website/images/discover/d2.jpg",
   },
   {
     title: "humour",
-    cover: "../images/discover/d3.jpg",
+    cover: "/news-website/images/discover/d3.jpg",
   },
   {
     title: "gadgets",
-    cover: "../images/discover/d4.jpg",
+    cover: "/news-website/images/discover/d4.jpg",
   },
   {
     title: "movies",
-    cover: "../images/discover/d5.jpg",
+    cover: "/news-website/images/discover/d5.jpg",
   },
   {
     title: "nitendo",
-    cover: "../images/discover/d6.jpg",
+    cover: "/news-website/images/discover/d6.jpg",
   },
 ]
 {
