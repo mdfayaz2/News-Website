@@ -8,9 +8,9 @@ const Footer = () => {
         <div className='container'>
           <div className='box logo'>
             <img src='/news-website/images/logo1.png' alt='DR News Logo' className="logo-image" />
-            <p>DR News is the reporting of current events and issues of public interest. It plays a crucial role in informing society about local, national, and global happenings. </p>
+            <p> News is the reporting of current events and issues of public interest. It plays a crucial role in informing society about local, national, and global happenings. </p>
             <i className='fa fa-envelope'></i>
-            <span> hello@drnews.com </span> <br />
+            <span> hello@news.com </span> <br />
             <i className='fa fa-headphones'></i>
             <span> +91 60521488</span>
           </div>

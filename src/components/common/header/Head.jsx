@@ -20,7 +20,7 @@ const Head = () => {
     fontWeight: 'bold', 
     fontSize: '4rem', 
     letterSpacing: '3px' 
-  }} >DR NEWS</h1>
+  }} >NEWS CHANNEL</h1>
           </div>
         </div>
       </section>
