@@ -6,7 +6,7 @@ const Head = () => {
       <section className='head'>
         <div className='container flexSB '>
           <div className='logo'>
-            <img src='../images/logo1.png' alt='' />
+            <img src='/news-website/images/logo1.png' alt='' />
           </div>
           <div  style={{ 
   textAlign: 'center', 
